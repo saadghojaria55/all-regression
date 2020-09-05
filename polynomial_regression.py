@@ -1,7 +1,7 @@
 # Polynomial Regression
 
 # Importing the libraries
-import numpy as np
+import numpy as n
 import matplotlib.pyplot as plt
 import pandas as pd
 

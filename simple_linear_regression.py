@@ -2,7 +2,7 @@
 
 # Importing the libraries
 import numpy as n
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as pl
 import pandas as pd
 
 # Importing the dataset

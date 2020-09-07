@@ -7,7 +7,7 @@ import pandas as pd
 # Importing the dataset
 dataset = pd.read_csv('50_Startups.csv')
 X1 = dataset.iloc[:, :-1].values
-y = dataset.iloc[:, 4].values
+y1 = dataset.iloc[:, 4].values
 
 # Encoding categorical data
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder

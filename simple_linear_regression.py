@@ -3,7 +3,7 @@
 # Importing the libraries
 import numpy as n
 import matplotlib.pyplot as pl
-import pandas as pd
+import pandas as p
 
 # Importing the dataset
 dataset = pd.read_csv('Salary_Data.csv')
